@@ -5,20 +5,24 @@
             <item type="label" name="Partners">
                 <translation language="nl"><![CDATA[Partners]]></translation>
                 <translation language="en"><![CDATA[Partners]]></translation>
+                <translation language="ru"><![CDATA[Партнеры]]></translation>
             </item>
             <item type="label" name="Partner">
                 <translation language="nl"><![CDATA[Partner]]></translation>
                 <translation language="en"><![CDATA[Partner]]></translation>
+                <translation language="ru"><![CDATA[Партнер]]></translation>
             </item>
             <item type="label" name="AddPartner">
                 <translation language="nl"><![CDATA[Voeg partner toe]]></translation>
                 <translation language="en"><![CDATA[Add partner]]></translation>
+                <translation language="ru"><![CDATA[Добавить партнера]]></translation>
             </item>
         </Partners>
         <Core>
             <item type="label" name="Partners">
                 <translation language="nl"><![CDATA[Partners]]></translation>
                 <translation language="en"><![CDATA[Partners]]></translation>
+                <translation language="ru"><![CDATA[Партнеры]]></translation>
             </item>
         </Core>
     </Backend>
